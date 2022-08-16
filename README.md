@@ -10,7 +10,9 @@ Ad-Free, Fast and easy to use Lorem ipsum generator...
 # Available Languages
 
 > Persian (فارسی)
+
 > Latin
+
 > Spanish
 
 ## Any Questions?
