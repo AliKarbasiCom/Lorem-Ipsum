@@ -1,4 +1,4 @@
-## About This Repository
+## About Ctrl+C Lorem ipsum
 
 Ad-Free, Fast and easy to use Lorem ipsum generator...
 
@@ -7,7 +7,7 @@ Ad-Free, Fast and easy to use Lorem ipsum generator...
 1. Press ``` Ctrl+C ``` (Windows) or ``` Command+C ``` (Mac) to copy Lorem ipsum.
 2. Press ``` Ctrl+V ``` (Windows) or ``` Command+V ``` (Mac) to paste it :D
 
-# Available Languages
+## Available Languages
 
 > Persian (فارسی)
 
@@ -17,7 +17,7 @@ Ad-Free, Fast and easy to use Lorem ipsum generator...
 
 ## Any Questions?
 
-If you have any question about this project, just send an E-mail to GitHub@AliKarbasi.Dev
+NO WAY, But If you have any questions, just send them to GitHub@AliKarbasi.Dev
 
 ## Also...
 
