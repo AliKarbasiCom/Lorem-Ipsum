@@ -4,8 +4,8 @@ Ad-Free, Fast and easy to use Lorem ipsum generator...
 
 ## How To Use?
 
-1. Press ``` Ctrl+C ``` (Windows) or ``` Command+C ``` (Mac)
-2. Press ``` Ctrl+V ``` (Windows) or ``` Command+V ``` (Mac)
+1. Press ``` Ctrl+C ``` (Windows) or ``` Command+C ``` (Mac) to copy Lorem ipsum.
+2. Press ``` Ctrl+V ``` (Windows) or ``` Command+V ``` (Mac) to paste it :D
 
 # Available Languages
 
