@@ -15,6 +15,8 @@ Ad-Free, Fast and easy to use Lorem ipsum generator...
 
 > Spanish
 
+> Swedish
+
 ## Any Questions?
 
 NO WAY, But If you have any questions, just send them to GitHub@AliKarbasi.Dev
